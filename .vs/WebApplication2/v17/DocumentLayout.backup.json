@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\dtos\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:dtos\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\data\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:data\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|c:\\users\\user1\\source\\repos\\psasp\\webapplication2\\data\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF26DA-5265-485D-A53E-2BF8E7AB1DD0}|WebApplication2.csproj|solutionrelative:data\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T12:10:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv+sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:10:06.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T08:20:41.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\CategoryUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoryUpdateDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\CategoryUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\CategoryUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:44:39.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:22:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:09:43.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:06:04.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:20:47.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:43:00.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:43:20.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:06:33.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:07:32.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:22:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:42:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:43:37.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\DTOs\\CreateCategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:43:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:56:02.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:09:19.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\psasp\\WebApplication2\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:08:57.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
